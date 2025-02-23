@@ -12,3 +12,6 @@ How to use the Programm:
 FILE = File in which the words are to be counted
 
 PORT = Number of Ports you want to use (at least one)
+
+3.)
+The dictionary with the counted words can then be found in the “reduced.txt” file.
